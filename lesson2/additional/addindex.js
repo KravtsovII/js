@@ -41,4 +41,4 @@ if (a + b < 4) {
 // напишіть це тернарним оператором
 
 let number = +prompt('введіть число')
-number > 0 ? console.log ('число позитивне' ):  number < 0 ? console.log ('число негативне') : number === 0 ? console.log ('число є ноль')
+`$number > 0 ? console.log ('число позитивне' )$number < 0 ? console.log ('число негативне')$number === 0 ? console.log ('число є ноль')`
